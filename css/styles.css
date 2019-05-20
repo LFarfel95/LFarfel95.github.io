@@ -47,6 +47,7 @@ body {
         padding:0 6rem;
         line-height:1;
         background-color:#7189a5;
+        box-shadow: 0 -5vh 0 5vh #7189a5;
 }
 
 .dcsd-count-down_days {
@@ -374,6 +375,7 @@ element.style {
     display: flex;
     flex-flow: row wrap;
     width: 100%;
+    padding-left: 25px;
 }
 
 .dcsd-facts_square {
